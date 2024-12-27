@@ -1,10 +1,10 @@
 # Welcome to My GitHub Profile! 👋
 
 ## About Me
--  Pursuing a Master's in Artificial Intelligence at Sheffield Hallam University.
--  Passionate about Mechanical Engineering, Computational Fluid Dynamics (CFD), Machine Learning, and Deep Learning.
--  Experienced in Python, ANSA, CAD, and CAE simulations.
--  Current Projects:
+- Pursuing a Master's in Artificial Intelligence at Sheffield Hallam University.
+- Passionate about Mechanical Engineering, Computational Fluid Dynamics (CFD), Machine Learning, and Deep Learning.
+- Experienced in Python, ANSA, CAD, and CAE simulations.
+- Current Projects:
   - Physics-Informed Neural Networks (PINNs) for PDE problems.
   - Content Based Image Retrival System.
   - Handwritten Digit Recognition System using Machine Learning and Computer vision Sytem
