@@ -19,9 +19,9 @@
 - **Handwritten Digit Recognition**: Built a machine learning model using MNIST dataset.
 
 ## Connect with Me
-- 🌐 [Portfolio](#)
-- 💼 [LinkedIn](https://www.linkedin.com/in/yourprofile/)
-- 📧 [Email](mailto:yourname@example.com)
+- 🌐 [Portfolio](https://www.linkedin.com/in/velanc/)
+- 💼 [LinkedIn]([https://www.linkedin.com/in/yourprofile/](https://www.linkedin.com/in/velanc/))
+- 📧 [Email](mailto:velanc.uk@gmail.com)
 
 ---
 
