@@ -15,7 +15,7 @@
 - **Libraries**: PyTorch, TensorFlow, OpenCV, Scikit-learn
 - **CFD Tools**: ANSYS Fluent, ANSA, STAR-CCM+
 - **Development Tools**: Git, Jupyter Notebook, Visual Studio Code, Pycharm
-- **CAD Tools** :
+- **CAD Tools** : Solidworks, Creo, Fusion 360
 
 ## Featured Projects
 - **CFD Pre-Processing Automation**: Reduced pre-processing time with Python scripting in ANSA.
