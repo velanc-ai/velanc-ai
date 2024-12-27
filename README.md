@@ -7,11 +7,11 @@
 - 🌟 Current Projects:
   - Physics-Informed Neural Networks (PINNs) for PDE problems.
   - Content Based Image Retrival System.
-  - Handwritten Digit Recognition System
-  - 
+  - Handwritten Digit Recognition System using Machine Learning and Computer vision Sytem
+  - Robotic sorting based on computer vision technique using industrial robots
 
 ## Skills & Tools
-- 💻 **Programming**: Python, C++
+- 💻 **Programming**: Python (Expert), C++ (Beginner)
 - 🔍 **Libraries**: PyTorch, TensorFlow, OpenCV, Scikit-learn
 - 🌐 **CFD Tools**: ANSYS Fluent, ANSA, STAR-CCM+
 - 🛠️ **Development Tools**: Git, Jupyter Notebook, Visual Studio Code
