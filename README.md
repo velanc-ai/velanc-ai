@@ -2,11 +2,13 @@
 
 ## About Me
 - 🎓 Pursuing a Master's in Artificial Intelligence at Sheffield Hallam University.
-- 🚀 Passionate about CFD, Machine Learning, and Deep Learning.
+- 🚀 Passionate about Mechanical Engineering, Computational Fluid Dynamics (CFD), Machine Learning, and Deep Learning.
 - 🔧 Experienced in Python, ANSA, CAD, and CAE simulations.
 - 🌟 Current Projects:
-  - Physics-Informed Neural Networks (PINNs) for CFD analysis.
-  - Vision tasks with Webots using E-puck robots.
+  - Physics-Informed Neural Networks (PINNs) for PDE problems.
+  - Content Based Image Retrival System.
+  - Handwritten Digit Recognition System
+  - 
 
 ## Skills & Tools
 - 💻 **Programming**: Python, C++
