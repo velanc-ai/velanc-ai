@@ -1,16 +1,47 @@
-## Hi there 👋
+# Welcome to My GitHub Profile! 👋
 
-<!--
-**velan-ai/velan-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🎓 Pursuing a Master's in Artificial Intelligence at Sheffield Hallam University.
+- 🚀 Passionate about CFD, Machine Learning, and Deep Learning.
+- 🔧 Experienced in Python, ANSA, CAD, and CAE simulations.
+- 🌟 Current Projects:
+  - Physics-Informed Neural Networks (PINNs) for CFD analysis.
+  - Vision tasks with Webots using E-puck robots.
 
-Here are some ideas to get you started:
+## Skills & Tools
+- 💻 **Programming**: Python, C++
+- 🔍 **Libraries**: PyTorch, TensorFlow, OpenCV, Scikit-learn
+- 🌐 **CFD Tools**: ANSYS Fluent, ANSA, STAR-CCM+
+- 🛠️ **Development Tools**: Git, Jupyter Notebook, Visual Studio Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+- **CFD Pre-Processing Automation**: Reduced pre-processing time with Python scripting in ANSA.
+- **Handwritten Digit Recognition**: Built a machine learning model using MNIST dataset.
+
+## Connect with Me
+- 🌐 [Portfolio](#)
+- 💼 [LinkedIn](https://www.linkedin.com/in/yourprofile/)
+- 📧 [Email](mailto:yourname@example.com)
+
+---
+
+### Markdown Syntax Cheatsheet
+
+- **Headings**: Use `#` for headings (e.g., `#` for H1, `##` for H2).
+- **Bold/Italic**: `**bold**` or `_italic_`.
+- **Lists**:
+  - Ordered: `1. Item`
+  - Unordered: `- Item`
+- **Links**: `[text](URL)`
+- **Images**: `![Alt Text](Image URL)`
+- **Code Blocks**: Wrap with triple backticks (\`\`\`).
+
+### Preview Your File
+- You can preview the README in GitHub to ensure the layout is correct.
+
+### Tips for a Great README
+- Use visuals: Add badges, icons, and screenshots to make it visually appealing.
+- Keep it concise and relevant.
+- Update regularly with new skills, projects, and links. 
+
+Would you like help drafting one specifically for your GitHub profile? 😊
