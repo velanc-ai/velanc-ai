@@ -18,7 +18,7 @@
 - **CAD Tools** : Solidworks, Creo, Fusion 360
 
 ## Featured Projects
--Object Recognition using pytorch
+- Object Recognition using pytorch
 - Salary estimation using K-Nearest neighbour
 - Leaf disease detection using Deep learning
 - **Handwritten Digit Recognition**: Built a machine learning model using MNIST dataset.
