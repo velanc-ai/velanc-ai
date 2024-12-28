@@ -18,7 +18,9 @@
 - **CAD Tools** : Solidworks, Creo, Fusion 360
 
 ## Featured Projects
-- **CFD Pre-Processing Automation**: Reduced pre-processing time with Python scripting in ANSA.
+-Object Recognition using pytorch
+- Salary estimation using K-Nearest neighbour
+- Leaf disease detection using Deep learning
 - **Handwritten Digit Recognition**: Built a machine learning model using MNIST dataset.
 
 ## Connect with Me
