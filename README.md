@@ -1,5 +1,3 @@
-# Welcome to My GitHub Profile! 👋
-
 ## About Me
 - Pursuing a Master's in Artificial Intelligence at Sheffield Hallam University.
 - Passionate about Artificial Intelligence, Machine Learning, Deep Learning, Mechanical Engineering and Computational Fluid Dynamics (CFD).
