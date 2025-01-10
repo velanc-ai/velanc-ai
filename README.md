@@ -4,10 +4,8 @@
 - Experienced in PINNs, Pytorch, Tensoflow, Python, ANSA, CAD, and CAE simulations.
 - **Area of Interest** : 
   - Physics-Informed Neural Networks (PINNs) for PDE problems.
-  - Computational Fluid Dynamics (CFD)
+  - AI in Computational Fluid Dynamics (CFD) and CAE
   - Deep Learning techniques
-  - Computer vision system
-  - Robotics
   - Mechanical Design and simulation
 
 ## Skills & Tools
