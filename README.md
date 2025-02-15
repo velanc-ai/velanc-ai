@@ -9,7 +9,7 @@
   - Mechanical Design and simulation
 
 ## Skills & Tools
-- **Programming**: Python (Expert), C++ (Beginner)
+- **Programming**: Python, C++ (Beginner)
 - **Libraries**: PyTorch, TensorFlow, OpenCV, Scikit-learn
 - **CFD Tools**: ANSYS Fluent, ANSA, STAR-CCM+
 - **Development Tools**: Git, Jupyter Notebook, Visual Studio Code, Pycharm
