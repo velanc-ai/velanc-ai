@@ -24,7 +24,6 @@
 ## Connect with Me
 - 🌐 [Portfolio](https://www.linkedin.com/in/velanc/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/velanc/)
-- 📧 [Email](mailto:velanc.uk@gmail.com)
 
 ---
 
