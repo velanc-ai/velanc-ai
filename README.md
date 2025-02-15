@@ -16,7 +16,7 @@
 - **CAD Tools** : Solidworks, Creo, Autodesk Inventor and Fusion 360, FreeCAD, CATIA
 
 ## Featured Projects
--**Automated Orthographic View Recognition using Computer Vision Technique**
+- **Automated Orthographic View Recognition using Computer Vision Technique**
 - Object Recognition using pytorch
 - Salary estimation using K-Nearest neighbour
 - Leaf disease detection using Deep learning
