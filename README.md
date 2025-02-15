@@ -13,9 +13,10 @@
 - **Libraries**: PyTorch, TensorFlow, OpenCV, Scikit-learn
 - **CFD Tools**: ANSYS Fluent, ANSA, STAR-CCM+
 - **Development Tools**: Git, Jupyter Notebook, Visual Studio Code, Pycharm
-- **CAD Tools** : Solidworks, Creo, Fusion 360
+- **CAD Tools** : Solidworks, Creo, Autodesk Inventor and Fusion 360, FreeCAD, CATIA
 
 ## Featured Projects
+-**Automated Orthographic View Recognition using Computer Vision Technique**
 - Object Recognition using pytorch
 - Salary estimation using K-Nearest neighbour
 - Leaf disease detection using Deep learning
