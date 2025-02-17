@@ -5,12 +5,13 @@
 - **Area of Interest** : 
   - Physics-Informed Neural Networks (PINNs) for PDE problems.
   - AI in Computational Fluid Dynamics (CFD) and CAE
+  - CAD Automation using AI
   - Deep Learning techniques
   - Mechanical Design and simulation
 
 ## Skills & Tools
 - **Programming**: Python, C++ (Beginner)
-- **Libraries**: PyTorch, TensorFlow, OpenCV, Scikit-learn
+- **Libraries**: PyTorch, TensorFlow, OpenCV, Scikit-learn, Graph Neural Networks
 - **CFD Tools**: ANSYS Fluent, ANSA, STAR-CCM+
 - **Development Tools**: Git, Jupyter Notebook, Visual Studio Code, Pycharm
 - **CAD Tools** : Solidworks, Creo, Autodesk Inventor and Fusion 360, FreeCAD, CATIA
