@@ -21,6 +21,8 @@
 
 ## Featured Projects
 
+- Defect detection in Manufactured the Parts (AI based Product quality testing)
+- CAD Feature Extraction from the manufacturing drawings
 - Vehicle Detection System using pytorch
 - Salary estimation using K-Nearest neighbour
 - Leaf disease detection using Deep learning
