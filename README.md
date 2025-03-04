@@ -3,8 +3,8 @@
 - Passionate about Artificial Intelligence (AI) in Mechanical Engineering (CAD / CAE / CFD)
 - Experienced in PINNs, Pytorch, Tensoflow, Python, ANSA, CAD, and CAE simulations.
 - **Area of Interest** : 
-  - Physics-Informed Neural Networks (PINNs) for PDE problems.
   - GEOMETRIC DEEP LEARNING
+  - Physics-Informed Neural Networks (PINNs) for PDE problems
   - CAD Automation using AI
   - Mechanical Design and simulation
 
