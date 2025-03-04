@@ -1,5 +1,5 @@
 ## About Me
-- Pursuing a Master's in Artificial Intelligence at Sheffield Hallam University.
+- Pursuing a Msc in Artificial Intelligence at Sheffield Hallam University.
 - Passionate about Artificial Intelligence (AI) in Mechanical Engineering (CAD / CAE / CFD)
 - Experienced in PINNs, Pytorch, Tensoflow, Python, ANSA, CAD, and CAE simulations.
 - **Area of Interest** : 
