@@ -1,12 +1,11 @@
 ## About Me
 - Pursuing a Master's in Artificial Intelligence at Sheffield Hallam University.
-- Passionate about Artificial Intelligence (AI) in Mechanical Engineering and Computational Fluid Dynamics (CFD)
+- Passionate about Artificial Intelligence (AI) in Mechanical Engineering (CAD / CAE / CFD)
 - Experienced in PINNs, Pytorch, Tensoflow, Python, ANSA, CAD, and CAE simulations.
 - **Area of Interest** : 
   - Physics-Informed Neural Networks (PINNs) for PDE problems.
-  - AI in Computational Fluid Dynamics (CFD) and CAE
+  - GEOMETRIC DEEP LEARNING
   - CAD Automation using AI
-  - Deep Learning techniques
   - Mechanical Design and simulation
 
 ## Skills & Tools
