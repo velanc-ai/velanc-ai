@@ -1,7 +1,7 @@
 ## About Me
 - Pursuing a Msc in Artificial Intelligence at Sheffield Hallam University.
 - Passionate about Artificial Intelligence (AI) in Mechanical Engineering (CAD / CAE / CFD)
-- Experienced in PINNs, Pytorch, Tensoflow, Python, ANSA, CAD, and CAE simulations.
+- Experienced in PINNs, Pytorch, Tensorflow, Python, ANSA, CAD, and CAE simulations.
 - **Area of Interest** : 
   - GEOMETRIC DEEP LEARNING
   - Physics-Informed Neural Networks (PINNs) for PDE problems
