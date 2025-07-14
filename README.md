@@ -71,7 +71,7 @@
 ## 🏆 Awards & Recognition
 
 - 🥇 Best Student Poster Award – Sheffield Hallam University  
-- 🥉 Hallam Bronze Award – SHU  
+- 🥉 Hallam Award Bronze, Silver – SHU  
 - 🎓 Best Outgoing Student – K.S. Rangasamy College of Technology  
 - 📜 Certified in Python, OpenFOAM, PyTorch, and PINNs
 
