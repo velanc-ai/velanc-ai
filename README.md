@@ -29,7 +29,7 @@
 
 ## 🛠️ Skills & Tools
 
-**Languages**: Python, C# 
+**Languages**: Python, C#
 **AI/ML Frameworks**: PyTorch, TensorFlow, Scikit-learn, OpenCV  
 **CAD Tools**: SolidWorks, Creo, Fusion 360, FreeCAD, CATIA, Autodesk Inventor  
 **CAE/CFD Tools**: ANSA, ANSYS Fluent, STAR-CCM+, OpenFOAM, Hypermesh  
