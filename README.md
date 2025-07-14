@@ -65,13 +65,6 @@
   - Voxel51  
   - System Integration
 
-**Languages**: Python, C#
-**AI/ML Frameworks**: PyTorch, TensorFlow, Scikit-learn, OpenCV  
-**CAD Tools**: SolidWorks, Creo, Fusion 360, FreeCAD, CATIA, Autodesk Inventor  
-**CAE/CFD Tools**: ANSA, ANSYS Fluent, STAR-CCM+, OpenFOAM, Hypermesh  
-**Development Tools**: Git, Jupyter, VS Code, PyCharm  
-**Others**: PyVista, JSON APIs, Voxel51, System Integration
-
 ---
 
 ## 🚀 Projects in Development
