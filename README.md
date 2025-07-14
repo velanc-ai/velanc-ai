@@ -18,6 +18,7 @@
 
 ## 🎯 Areas of Interest
 
+- 🧠 Agentic AI for autonomous, goal-driven design and analysis systems  
 - 🧠 Geometric Deep Learning & Graph Neural Networks  
 - 🧮 Physics-Informed Neural Networks (PINNs) for PDE problems  
 - 🤖 AI-Powered CAD Automation  
