@@ -6,10 +6,10 @@
 
 ## 🔧 Professional Summary
 
-- Multidisciplinary AI Engineer with a passion for integrating **Artificial Intelligence** into **Mechanical Engineering**, especially in **CAD/CAE workflows** and **CFD automation**.
+- Multidisciplinary AI Engineer with a passion for integrating **Artificial Intelligence** into **Mechanical Engineering**, especially in **CAD/CAE workflows**.
 - Industry experience as a **CFD Application Engineer at Ford Motor Company**, specializing in simulation pipeline automation using **ANSYS Fluent**, **ANSA**, **SolidWorks**, and **Python**.
 - Contributing to **SYIP’s Cultura Creative project** on **synthetic image generation** using **GANs** and **diffusion models**, focusing on dataset curation and performance evaluation.
-- Active researcher under the **South Yorkshire Digital Health Hub (EPSRC-funded)**, working on **explainable ML** techniques to support perinatal healthcare.
+- Active researcher under the **South Yorkshire Digital Health Hub (EPSRC-funded)**, working on **explainable ML** techniques.
 - Python Automation Specialist for CAE and AI workflows, proficient in **JSON processing**, **system integrations**, and **metadata tagging**.
 - Adept in deploying AI within robotic systems and mechanical design, offering unique cross-domain insights for AI-driven engineering automation.
 - Experienced with **Voxel51**, ready to support visual analytics and metadata integration with third-party APIs like weather datasets.
@@ -79,7 +79,7 @@
 
 ## 🤝 Let's Connect
 
-- 🌐 Portfolio: _Coming Soon_  
+- 🌐 Portfolio: ......Working on it .......
 - 💼 [LinkedIn](https://www.linkedin.com/in/velanc/)  
 - 💻 [GitHub](https://github.com/velan-ai)  
 - 📫 Email: velanc.uk@gmail.com  
