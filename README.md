@@ -12,7 +12,7 @@
 - Active researcher under the **South Yorkshire Digital Health Hub (EPSRC-funded)**, working on **explainable ML** techniques.
 - Python Automation Specialist for CAE and AI workflows, proficient in **JSON processing**, **system integrations**, and **metadata tagging**.
 - Adept in deploying AI within robotic systems and mechanical design, offering unique cross-domain insights for AI-driven engineering automation.
-- Experienced with **Voxel51**, ready to support visual analytics and metadata integration with third-party APIs like weather datasets.
+- Experienced with **Voxel51**, ready to support visual analytics and metadata integration with third-party APIs like weather datasets. 
 
 ---
 
