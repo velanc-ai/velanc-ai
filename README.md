@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Velan Chennappan
 
-🎓 MSc Artificial Intelligence student at **Sheffield Hallam University**, with a robust foundation in **Mechanical Engineering** and real-world experience in **CAD/CAE/CFD**, AI-based automation, and cross-domain projects.
+🎓 A **Generative AI Research Engineer** at  **Sheffield Hallam University**, with a robust foundation in **Mechanical Engineering** and real-world experience in **CAD/CAE/CFD**, AI-based automation, and cross-domain projects.
 
 ---
 
