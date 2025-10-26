@@ -6,13 +6,7 @@
 
 ## 🔧 Professional Summary
 
-- **Multidisciplinary AI Enthusiast** with a passion for integrating **Artificial Intelligence** into **Healthcare** and **Mechanical Engineering**.  
-- Industry experience as a **CFD Application Engineer at Ford Motor Company**, specializing in simulation pipeline automation using **ANSYS Fluent**, **ANSA**, **SolidWorks**, and **Python**.  
-- Contributing to **SYIP’s Cultura Creative Project** on **synthetic image generation** using **GANs** and **diffusion models**, focusing on dataset curation and performance evaluation.  
-- Active researcher under the **South Yorkshire Digital Health Hub (EPSRC-funded)**, working on **explainable ML** techniques.  
-- Python Automation Specialist for CAE and AI workflows, proficient in **JSON processing**, **system integrations**, and **metadata tagging**.  
-- Adept in deploying AI within robotic systems and mechanical design, offering unique cross-domain insights for AI-driven engineering automation.  
-- Experienced with **Voxel51**, ready to support visual analytics and metadata integration with third-party APIs like weather datasets.  
+ A passionate AI Research Engineer with a strong background in the software development in Mechanical Engineering, currently specializing in Generative and Agentic AI. My research vision lies at the intersection of AI-driven automation, geometric reasoning, and human-centred innovation focusing on creating interpretable, ethical, and scalable AI systems. With practical experience in multimodal generative modeling, retrieval-augmented reasoning, and explainable data analysis, I bridge theory and implementation through an interdisciplinary lens. My academic and professional journey reflects a commitment to open, ethical, and impactful AI research, aligning deeply with the evolving demands of AI for design, simulation, and decision-making across industries. 
 
 ---
 
