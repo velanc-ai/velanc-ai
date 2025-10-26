@@ -75,4 +75,4 @@ Curious. Analytical. Relentlessly hands-on. I believe in combining **mechanical 
 
 ---
 
-**Made with 🤖 by [Velan Chennappan](https://github.com/yourusername)**  
+**Made with 🤖 by [Velan Chennappan](https://github.com/velanc-ai)**  
