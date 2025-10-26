@@ -50,8 +50,8 @@
 
 ## 🧠 Research & Technical Skills
 
-- **AI & ML Frameworks:** PyTorch, TensorFlow, Hugging Face, LangChain, DeepSpeed, vLLM  
-- **Data & Visualization Tools:** Pandas, NumPy, Matplotlib, Voxel51, FiftyOne  
+- **AI & ML Frameworks:** PyTorch, TensorFlow, Hugging Face, LangChain 
+- **Data & Visualization Tools:** Pandas, NumPy, Matplotlib, Seaborn
 - **Model Development:** LLM fine-tuning, diffusion models, GANs, RAG pipelines  
 - **Mechanical & Simulation Tools:** ANSYS Fluent, ANSA, SolidWorks, OpenFOAM  
 - **Programming & Scripting:** Python, MATLAB, Bash, JSON, API Integration  
@@ -59,12 +59,4 @@
 
 ---
 
-## 🌟 Personal Philosophy
 
-> “Engineering intelligence isn’t just about algorithms — it’s about teaching machines to think like engineers.”
-
-Curious. Analytical. Relentlessly hands-on. I believe in combining **mechanical intuition** with **AI innovation** to shape the next era of intelligent design.
-
----
-
-**Made with 🤖 by [Velan Chennappan](https://github.com/velanc-ai)**  
