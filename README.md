@@ -38,7 +38,7 @@
 
 ## 📚 Academic Research
 
-### 🎓 MSc Dissertation (Feb 2025 – Present)  
+### 🎓 MSc Dissertation
 📌 **Title:** *Development of Multi-Agent system Based on Rapid Prototyping*  
 
 - Integrating vision-language models and engineering design tools for smart CAD workflows  
