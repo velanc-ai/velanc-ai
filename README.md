@@ -6,7 +6,7 @@
 
 ## 🔧 Professional Summary
 
-- Multidisciplinary AI Enthusiast with a passion for integrating **Artificial Intelligence** into **Mechanical Engineering**, especially in **CAD/CAE workflows**.
+- Multidisciplinary AI Enthusiast with a passion for integrating **Artificial Intelligence** in the **Healthcare** and **Mechanical Engineering**
 - Industry experience as a **CFD Application Engineer at Ford Motor Company**, specializing in simulation pipeline automation using **ANSYS Fluent**, **ANSA**, **SolidWorks**, and **Python**.
 - Contributing to **SYIP’s Cultura Creative project** on **synthetic image generation** using **GANs** and **diffusion models**, focusing on dataset curation and performance evaluation.
 - Active researcher under the **South Yorkshire Digital Health Hub (EPSRC-funded)**, working on **explainable ML** techniques.
