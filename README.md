@@ -6,18 +6,16 @@
 
 ## 🔧 Professional Summary
 
- A passionate AI Research Engineer with a strong background in the software development in Mechanical Engineering, currently specializing in Generative and Agentic AI. My research vision lies at the intersection of AI-driven automation, geometric reasoning, and human-centred innovation focusing on creating interpretable, ethical, and scalable AI systems. With practical experience in multimodal generative modeling, retrieval-augmented reasoning, and explainable data analysis, I bridge theory and implementation through an interdisciplinary lens. My academic and professional journey reflects a commitment to open, ethical, and impactful AI research, aligning deeply with the evolving demands of AI for design, simulation, and decision-making across industries. 
+ A passionate **AI Research Engineer** with a strong background in the software development in Mechanical Engineering, currently specializing in **Generative** and **Agentic AI**. My research vision lies at the intersection of AI-driven automation, geometric reasoning, and human-centred innovation focusing on creating interpretable, ethical, and scalable AI systems. With practical experience in multimodal generative modeling, retrieval-augmented reasoning, and explainable data analysis, I bridge theory and implementation through an interdisciplinary lens. My academic and professional journey reflects a commitment to open, ethical, and impactful AI research, aligning deeply with the evolving demands of AI for Engineering design, simulation, and decision-making across industries. 
 
 ---
 
 ## 🎯 Areas of Interest
 
-- 🧠 Agentic AI for autonomous, goal-driven design and analysis systems  
-- 🧠 Geometric Deep Learning & Graph Neural Networks  
-- 🧮 Physics-Informed Neural Networks (PINNs) for PDE problems  
-- 🤖 AI-Powered CAD Automation  
-- 🛠️ Mechanical Design & Simulation  
-- 🧬 AI for Digital Health and Robotics  
+- Agentic AI
+- Generative AI
+- Geometric Deep Learning
+- Computational Design
 
 ---
 
@@ -41,7 +39,7 @@
 ## 📚 Academic Research
 
 ### 🎓 MSc Dissertation (Feb 2025 – Present)  
-📌 **Title:** *Development of Multi-Modal AI Agent for CAD Preparation Based on Rapid Prototyping (RAG Approach)*  
+📌 **Title:** *Development of Multi-Agent system Based on Rapid Prototyping*  
 
 - Integrating vision-language models and engineering design tools for smart CAD workflows  
 - Automating 3D model generation from multimodal inputs (images, sketches, and specifications)  
