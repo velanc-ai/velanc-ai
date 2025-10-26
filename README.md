@@ -32,7 +32,7 @@
 
 - 💬 [**Vel-Kural**](https://github.com/velanc-ai/Vel-Kural): A Tamil-inspired large language model project focusing on linguistic reasoning and cultural intelligence.  
 - 🎨 [**Text-Image Diffusion Model Experiment**](https://github.com/yourusername/text-image-diffusion): Exploring image synthesis using GANs and diffusion models for diverse datasets.  
-- 🤖 [**RAG-Based Chatbot Framework**](https://github.com/yourusername/rag-chatbot): A modular Retrieval-Augmented Generation system for domain-specific knowledge retrieval and dialogue.  
+- 🤖 [**RAG-Based Chatbot Framework**](https://github.com/velanc-ai/RAG_BASED_TRANSACTION_CLASSIFICATION_SYSTEM): A modular Retrieval-Augmented Generation system for domain-specific knowledge retrieval and dialogue.  
 
 ---
 
