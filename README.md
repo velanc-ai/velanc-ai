@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Velan Chennappan
 
-🎓 A **Generative AI Research Engineer** at **Sheffield Hallam University**, with a robust foundation in **Artificial Intelligence** and **Mechanical Engineering**, providing competitive AI solutions for real-world problems.
+🎓 An **AI Research Engineer** with a robust foundation in **Artificial Intelligence** providing competitive AI solutions for real-world problems focusing on SME's and Engineering Companies.
 
 ---
 
