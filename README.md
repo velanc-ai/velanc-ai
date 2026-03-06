@@ -14,7 +14,7 @@
 
 - Agentic AI
 - Generative AI
-- Geometric Deep Learning
+- Multi-Agent System
 - Computational Design
 
 ---
